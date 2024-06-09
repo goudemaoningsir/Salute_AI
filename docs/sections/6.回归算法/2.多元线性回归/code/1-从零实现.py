@@ -3,6 +3,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from sklearn.datasets import load_diabetes
 from sklearn.model_selection import train_test_split
 
+
 class LinearRegression:
     def __init__(self):
         self.intercept_ = None
