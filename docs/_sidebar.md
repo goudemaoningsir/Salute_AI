@@ -39,7 +39,7 @@
     - [交叉验证](sections/4.模型评价/交叉验证.md)
     - [偏差方差平衡](sections/4.模型评价/偏差方差平衡.md)
     - [模型正则化](sections/4.模型评价/模型正则化.md)
-    - [混淆矩阵](sections/4.模型评价/混淆矩阵.md)
+    - [评价指标](sections/4.模型评价/评价指标.md)
 
 
 
@@ -73,10 +73,9 @@
   - [梯度下降](sections/7.优化算法/2.梯度下降.md)
   - [反向传播](sections/7.优化算法/3.反向传播.md)
   - 梯度上升
-  - [反向传播](sections/7.优化算法/3.反向传播.md)
-
   
-
+  
+  
 - **感知机**
 
   - [激活函数](sections/8.感知机/激活函数.md)
@@ -103,14 +102,18 @@
   - [paddle国产化适配](sections/paddle/paddle国产化适配.md)
 
 - **自然语言处理**
+  
   - [概述](sections/2.deeplearning/nlp/1.概述.md)
   - [分词](sections/2.deeplearning/nlp/分词.md)
   - [事件抽取](sections/2.deeplearning/nlp/事件抽取.md)
+  - **机器翻译**
+    - 概述
+  
 - **语音**
   - [语音合成](sections/2.deeplearning/语音/语音合成/1.语音合成.md)
 
 - **LLMS**
   - [简介](sections/3.llms/1.summary/1.summary.md)
-  - [chatgpt](sections/3.llms/2.chatgpt/1.chatgpt.md)
+  - [chatgpt](sections/llms/chatgpt.md)
 
 ​	
