@@ -29,5 +29,7 @@
 
 ## Reference
 
+- [动手学深度学习](https://zh.d2l.ai/index.html)
+- 李宏毅-机器学习
 - [深入浅出PyTorch](https://github.com/datawhalechina/thorough-pytorch)
 - [Ailearning](https://github.com/apachecn/ailearning)
