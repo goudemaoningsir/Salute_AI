@@ -1,14 +1,20 @@
 - [首页](README.md)
 - [概述](sections/1.概述/概述.md)
 - **常用工具**
-  - Jupyter Notebook
+  -  数学
+     -  [数学](sections/2.常用工具/数学.md)
+     -  拉格朗日乘子法
+        -  [等值线](sections/2.常用工具/数学/拉格朗日乘子法/等值线.md)
+        -  [凸优化](sections/2.常用工具/数学/拉格朗日乘子法/凸优化.md)
+        -  [拉格朗日乘子法（Lagrange multiplier）](sections/2.常用工具/数学/拉格朗日乘子法/拉格朗日.md)
+  -  Jupyter Notebook
     - [概述](sections/2.常用工具/jupyter/概述.md)
-  - Scikit-learn
+  -  Scikit-learn
     - [概述](sections/2.常用工具/sklearn/概述.md)
-  - PyTorch
+  -  PyTorch
     - [概述](sections/2.常用工具/pytorch/概述.md)
     - [张量操作](sections/2.常用工具/pytorch/张量操作.md)
-  - Paddle
+  -  Paddle
     - [概述](sections/2.常用工具/paddle/概述.md)
 - **数据特征工程**
   - [数据](sections/3.特征工程/1.数据.md)
@@ -22,25 +28,18 @@
   - [线性回归](sections/5.回归算法/1.线性回归/线性回归.md)
   - [逻辑回归](sections/5.回归算法/2.逻辑回归/逻辑回归.md)
   - [softmax回归](sections/5.回归算法/3.softmax回归/softmax回归.md)
-
-
+  - [损失函数](sections/5.回归算法/4.损失函数/损失函数.md)
 - **模型优化**
-    - [模型偏差](sections/4.模型优化/模型偏差.md)
-    - [过拟合欠拟合](sections/4.模型优化/过拟合欠拟合.md)
-    - [交叉验证](sections/4.模型评价/交叉验证.md)
-    - [偏差方差平衡](sections/4.模型优化/偏差方差平衡.md)
-    - [模型正则化](sections/4.模型评价/模型正则化.md)
-    - [评价指标](sections/4.模型评价/评价指标.md)
-    - [超参数及调优方法](sections/7.优化算法/1.超参数.md)
-    - [梯度下降](sections/7.优化算法/2.梯度下降.md)
-    - [反向传播](sections/7.优化算法/3.反向传播.md)
-    - 梯度上升
+  - [模型误差](sections/6.模型优化/模型误差.md)
+  - [模型优化](sections/6.模型优化/模型优化.md)
+  - [评价指标](sections/6.模型优化/评价指标.md)
+  - [梯度下降](sections/6.模型优化/2.梯度下降.md)
+  - 梯度上升
 
 
 
 
 - **感知机**
-
   - [激活函数](sections/8.感知机/激活函数.md)
   - [多层感知机](sections/8.感知机/多层感知机.md)
 - 贝叶斯
@@ -48,7 +47,22 @@
 - 决策树
 - 集成学习
   - 随机森林
-- 
+  
+  
+- 卷积神经网络
+
+
+  - CNN
+
+  
+- 循环神经网络
+
+
+  - [RNN](sections/循环神经网络/RNN.md)
+  - LSTM
+  - GRU
+
+  
 - **自然语言处理**
 
   - [概述](sections/2.deeplearning/nlp/1.概述.md)
