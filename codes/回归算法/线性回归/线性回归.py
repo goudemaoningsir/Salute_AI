@@ -88,3 +88,22 @@ print()
 print(f"估计的 b: {estimated_b.flatten()}")
 print(f"真实的 b: {true_b}")
 print(f"b 的绝对误差: {b_error.flatten()}")
+
+############################################ 9、绘制拟合直线
+# 使用训练后的模型参数计算预测值
+with torch.no_grad():
+    feature_1_vals = torch.linspace(
+        features[:, 1].min(), features[:, 1].max(), 100
+    ).view(-1, 1)
+    feature_0_vals = torch.zeros_like(feature_1_vals)
+    fitted_features = torch.cat((feature_0_vals, feature_1_vals), dim=1)
+    predictions = net(fitted_features).numpy()
+
+# 绘制散点图和拟合直线
+plt.scatter(features[:, 1].numpy(), labels.numpy(), s=1, label="True data")
+plt.plot(feature_1_vals.numpy(), predictions, color="red", label="Fitted line")
+plt.xlabel("Feature 1")
+plt.ylabel("Label")
+plt.title("Feature 1 vs Label with Fitted Line")
+plt.legend()
+plt.show()
