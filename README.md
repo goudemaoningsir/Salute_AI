@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/goudemaoningsir/Salute_AI">
-    <img src="https://raw.githubusercontent.com/goudemaoningsir/Salute_AI/main/img/1.jpg" height="400">
+    <img src="docs/images/1.jpg" height="400">
   </a>
   <h1>AI - Beginner Runaway | 🚴‍♂️</h1>
   <img src="https://img.shields.io/github/repo-size/goudemaoningsir/Salute_AI.svg?label=Repo%20size&style=flat-square" height="20">
