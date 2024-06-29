@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="root@172.28.25.16:1701 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@172.28.25.16:123 password" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="root@172.28.25.16:124 password">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/app" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="root@172.28.25.16:1701 password">
+      <paths name="root@172.28.25.16:123 password">
         <serverdata>
           <mappings>
             <mapping deploy="/workspace" local="$PROJECT_DIR$" />

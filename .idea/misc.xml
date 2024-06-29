@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Remote Python 3.11.2 (sftp://root@172.28.25.16:124/usr/local/bin/python3)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.14 (sftp://root@172.28.25.16:1701/opt/conda/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.12 (sftp://root@172.28.25.16:123/usr/bin/python3)" project-jdk-type="Python SDK" />
 </project>

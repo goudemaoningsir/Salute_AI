@@ -63,10 +63,11 @@
 - **循环神经网络**
     - [序列模型](sections/循环神经网络/序列模型.md)
     - [文本预处理](sections/循环神经网络/文本预处理.md)
-    - [语言模型和数据集](sections/循环神经网络/语言模型和数据集.md)
     - [RNN](sections/循环神经网络/RNN.md)
     - [LSTM](sections/循环神经网络/lstm.md)
     - [GRU](sections/循环神经网络/gru.md)
+- 语言模型
+  -  [语言模型](sections/语言模型/语言模型.md)
 - **自然语言处理**
   - [概述](sections/2.deeplearning/nlp/1.概述.md)
   - [分词](sections/2.deeplearning/nlp/分词.md)

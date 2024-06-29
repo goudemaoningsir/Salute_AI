@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/goudemaoningsir/Salute_AI/main/img/1.jpg" width = "250" alt="Salute_AI" align=center />
+<img src="images/1.jpg" width = "250" alt="Salute_AI" align=center />
 
 <h1><B>AI - 从入门到跑路 | 🚴‍♂️ </B></h1>
 
