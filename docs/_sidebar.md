@@ -1,5 +1,7 @@
 - [首页](README.md)
+
 - [概述](sections/概述/概述.md)
+
 - **常用工具**
   -  数学
      -  [数学](sections/常用工具/数学.md)
@@ -16,6 +18,7 @@
     - [张量操作](sections/常用工具/pytorch/张量操作.md)
   -  Paddle
     - [概述](sections/常用工具/paddle/概述.md)
+  
 - **数据特征工程**
   - [数据](sections/特征工程/1.数据.md)
   - **特征预处理**
@@ -23,7 +26,9 @@
     - [标准化](sections/特征工程/特征预处理/2.标准化.md)
     - [缺失值](sections/特征工程/特征预处理/3.缺失值.md)
     - [降维-PCA](sections/特征工程/特征预处理/4.pca.md)
+  
 - [K-近邻算法](sections/knn/knn.md)
+
 - **回归算法**
   - [线性回归](sections/回归算法/1.线性回归/线性回归.md)
   - [多项式回归](sections/回归算法/1.线性回归/多项式回归.md)
@@ -32,12 +37,15 @@
   - **损失函数**
     - [损失函数](sections/回归算法/4.损失函数/损失函数.md)
     - [交叉熵损失函数](sections/回归算法/4.损失函数/交叉熵损失函数.md)
+  
 - **感知机**
   - [多层感知层](sections/感知机/多层感知机.md)
   - [激活函数](sections/感知机/激活函数.md)
+  
 - **模型选择**
   - [模型误差](sections/模型选择/模型误差.md)
   - [评价指标](sections/模型选择/评价指标.md)
+  
 - **模型优化**
   - [优化问题](sections/模型优化/优化问题.md)
   - [交叉验证](sections/模型优化/交叉验证.md)
@@ -46,11 +54,16 @@
   - [梯度下降](sections/模型优化/梯度下降.md)
   - [数值稳定性和模型初始化](sections/模型优化/数值稳定性和模型初始化.md)
   - [批量规范化](sections/模型优化/批量规范化.md)
+  
 - 贝叶斯
+
 - 支持向量机
+
 - 决策树
+
 - 集成学习
   - 随机森林
+  
 - **卷积神经网络**
     - [CNN](sections/卷积神经网络/CNN.md)
     - [LeNET](sections/卷积神经网络/LeNet.md)
@@ -58,26 +71,43 @@
     - [Vgg](sections/卷积神经网络/vgg.md)
     - [ResNet](sections/卷积神经网络/ResNET.md)
     - [DenseNet](sections/卷积神经网络/densenet.md)
+    
 - **词向量**
     - [独热编码](sections/词向量/独热编码.md)
+    
 - **循环神经网络**
+  
     - [序列模型](sections/循环神经网络/序列模型.md)
     - [文本预处理](sections/循环神经网络/文本预处理.md)
     - [RNN](sections/循环神经网络/RNN.md)
     - [LSTM](sections/循环神经网络/lstm.md)
     - [GRU](sections/循环神经网络/gru.md)
+    
+- [自注意力机制](sections/自注意力机制.md)
+  
 - 语言模型
+  
   -  [语言模型](sections/语言模型/语言模型.md)
+  
+- **生成式人工智能**
+  
+  - [概述](sections/生成式人工智能/概述.md)
+  
+    
+  
 - **自然语言处理**
   - [概述](sections/2.deeplearning/nlp/1.概述.md)
   - [分词](sections/2.deeplearning/nlp/分词.md)
   - [事件抽取](sections/2.deeplearning/nlp/事件抽取.md)
   - **机器翻译**
     - 概述
+  
 - **语音**
   - [语音合成](sections/2.deeplearning/语音/语音合成/1.语音合成.md)
+  
 - **LLMS**
   - [简介](sections/3.llms/1.summary/1.summary.md)
   - [chatgpt](sections/llms/chatgpt.md)
+  
 - **Huggingface**
   - [国内加速](sections/Huggingface/国内加速.md)
