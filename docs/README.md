@@ -33,3 +33,4 @@
 - 李宏毅-机器学习
 - [深入浅出PyTorch](https://github.com/datawhalechina/thorough-pytorch)
 - [Ailearning](https://github.com/apachecn/ailearning)
+- [LLMBook](https://llmbook-zh.github.io/)
